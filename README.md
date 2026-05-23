@@ -34,7 +34,7 @@ Windows 上で Linux 環境を構築する **WSL2** の導入から、軽量タ�
     sudo apt upgrade
     sudo apt install zip emacs-nox
     ```
-6.　dockerインストール
+6.  dockerインストール
     ```bash
     sudo apt install ca-certificates curl
     sudo install -m 0755 -d /etc/apt/keyrings
